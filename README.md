@@ -8,7 +8,7 @@ I'm currently working at [Hoowla](https://www.hoowla.com/) (remotely) - a prop t
 
 ## ⚡️ Experience
 
-More-less a Full-Stack dev (more backend leaning), I use [Elixir](https://elixir-lang.org/) to build my realtime/backend server, and I pair that with React on the frontend. 
+More-less a Full-Stack dev (more backend leaning), I use [Go](https://go.dev/) to build my realtime/backend server, and I pair that with React on the frontend. 
 
 I've been working with React, JS, Elixir, Go for roughly 3 years and PHP for 1 year, 
 
