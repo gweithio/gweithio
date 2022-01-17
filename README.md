@@ -8,13 +8,13 @@ I'm currently working at [Hoowla](https://www.hoowla.com/) (remotely) - a prop t
 
 ## ⚡️ Experience
 
-More-less a Full-Stack dev (more backend leaning), I use [Go](https://go.dev/) to build my realtime/backend server, and I pair that with React on the frontend. 
+More-less a Full-Stack dev (more backend leaning), I use [Go](https://go.dev/) or [Scala](https://www.scala-lang.org/) to build my realtime/backend server, and I pair that with [VueJS](https://vuejs.org/) on the frontend. I'm a huge fan of functional programming and tend to opt in for the TypeLevel stack of [Cats](https://typelevel.org/cats/), [Cats Effect](https://typelevel.org/cats-effect/), [FS2](https://fs2.io/#/), [Doobie](https://tpolecat.github.io/doobie/) and [Circe](https://circe.github.io/circe/)
 
-I've been working with React, JS, Elixir, Go for roughly 3 years and PHP for 1 year, 
+I've been working with Vue, JS, Scala, Go for roughly 3 years and PHP for 1 year, 
 
 At my current role at Hoowla, I'm mostly using [PHP](https://www.php.net/), [Go](https://go.dev/) and [VueJS](https://vuejs.org/)
 
-P.S - I use Vim pretty much all the time.
+P.S - I use Neovim pretty much all the time.
 
 ## 📫 Contact
 
