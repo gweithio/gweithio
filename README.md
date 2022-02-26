@@ -8,7 +8,8 @@ I'm currently working at [Hoowla](https://www.hoowla.com/) (remotely) - a prop t
 
 ## ⚡️ Experience
 
-More-less a Full-Stack dev (more backend leaning), I use [Go](https://go.dev/) or [Scala](https://www.scala-lang.org/) to build my realtime/backend server, and I pair that with [VueJS](https://vuejs.org/) on the frontend. I'm a huge fan of functional programming and tend to opt in for the TypeLevel stack of [Cats](https://typelevel.org/cats/), [Cats Effect](https://typelevel.org/cats-effect/), [FS2](https://fs2.io/#/), [Doobie](https://tpolecat.github.io/doobie/) and [Circe](https://circe.github.io/circe/)
+More-less a Full-Stack dev (more backend leaning), I use [Go](https://go.dev/) or [Scala](https://www.scala-lang.org/) to build my realtime/backend server, and I pair that with [VueJS](https://vuejs.org/) on the frontend. 
+I'm a huge fan of functional programming with [OCaml](https://ocaml.org/) and [Scala](https://www.scala-lang.org/) being my favourite two, for purity-sake I dabble in [Haskell](https://www.haskell.org/) if I'm feeling smarter than I actually am. 
 
 I've been working with Vue, JS, Scala, Go for roughly 3 years and PHP for 1 year, 
 
