@@ -6,10 +6,4 @@ I'm currently working at [Hoowla](https://www.hoowla.com/) (remotely) - a prop t
 
 P.S - I use Neovim pretty much all the time.
 
-## 📫 Contact
-
 To contact me quickly and easily, [DM me on Twitter](https://twitter.com/glassofethanol).
-
-If it makes more sense, you can also email e:
-
-**General Inquiries:** ethanpmorgan@gmail.com
