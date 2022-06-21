@@ -1,10 +1,9 @@
 ### Hey, I'm Ethan 👋
 
-I'm a 23 year old developer.
+I'm a Software Developer from South Wales, UK. I program in C, Go, Odin and PHP quite frequently. You can find me sometimes streaming on Twitch working on Developer Tools, Interpreters, Backend Development, Embedded Development using C, Odin, Rust or PHP.
 
 I have blog [here](https://www.epmor.app/)
 
-Been working with [Odin Programming Language](https://odin-lang.org/) increasingly over time.
 
 P.S - I use Neovim pretty much all the time.
 
